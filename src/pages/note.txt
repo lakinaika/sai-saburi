@@ -1,0 +1,4 @@
+main menus = home, Departments & Services, Patients & Visitors, Health Info, Doctors's Profile, Reach Us
+sub menus of Departments & Services is Trauma Care(Emergency), Paediatrics & Neonatology, Neuroscience, Diabetes and Bariatric Surgery, Critical Care, Mwdicine & Rehabilitation, Bone & Join
+sub menus of Patients & Visitors is Find a Doctor, Billing, Patient Guide, Online Reports Portal, Make An Appointment, Testimonials, Visitors, Timings
+sub menus of Patients & Visitors is Health Tips, Event Bulletin, Events, News Head

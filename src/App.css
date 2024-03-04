@@ -1,0 +1,6 @@
+.footer-wrapper{
+    background-image: linear-gradient(rgba(3, 42, 65, 0.945),rgba(5, 50, 75, 0.904)),url('./assets/footer-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
